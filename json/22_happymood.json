@@ -6,11 +6,11 @@
       "link": "https://play.google.com/store/apps/details?id=",
       "appid": "pub-4132761121202947",
 	  
-      "admobappid": "ca-app-pub-3092154944243805~5879652102",
-      "interid": "ca-app-pub-3092154944243805/1554653469",
-      "nativeid": "ca-app-pub-3092154944243805/7337447273",
-      "bannernative": "ca-app-pub-3092154944243805/2496184132",
-      "openid": "ca-app-pub-3092154944243805/7474206315",
+      "admobappid": "ca-app-pub-3092154944243805~4799408686",
+      "interid": "ca-app-pub-3092154944243805/3788567589",
+      "nativeid": "ca-app-pub-3092154944243805/1892181922",
+      "bannernative": "ca-app-pub-3092154944243805/4607836999",
+      "openid": "ca-app-pub-3092154944243805/3294755322",
 	  
 	  
       "startappid": "206058814",
@@ -44,141 +44,7 @@
          "image_url":"https://alimarufdev.github.io/gambar/happy.webp",
          "video_url":"http://indoappdev.xyz/JUMPSCARE/J1.mp4",
          "voice_url":"http://indoappdev.xyz/HORROR/H1.ogg"
-       },
-       {
-         "id":2,
-         "name":"HappyMood",
-         "image_url":"https://alimarufdev.github.io/gambar/happy.webp",
-         "video_url":"http://indoappdev.xyz/JUMPSCARE/J2.mp4",
-         "voice_url":"http://indoappdev.xyz/HORROR/H1.ogg"
-       },
-       {
-         "id":3,
-         "name":"HappyMood",
-         "image_url":"https://alimarufdev.github.io/gambar/happy.webp",
-         "video_url":"http://indoappdev.xyz/JUMPSCARE/J3.mp4",
-         "voice_url":"http://indoappdev.xyz/HORROR/H1.ogg"
-       },
-       {
-         "id":4,
-         "name":"HappyMood",
-         "image_url":"https://alimarufdev.github.io/gambar/happy.webp",
-         "video_url":"http://indoappdev.xyz/JUMPSCARE/J4.mp4",
-         "voice_url":"http://indoappdev.xyz/HORROR/H1.ogg"
-       },
-       {
-         "id":5,
-         "name":"HappyMood",
-         "image_url":"https://alimarufdev.github.io/gambar/happy.webp",
-         "video_url":"http://indoappdev.xyz/JUMPSCARE/J5.mp4",
-         "voice_url":"http://indoappdev.xyz/HORROR/H1.ogg"
-       },
-       {
-         "id":6,
-         "name":"HappyMood",
-         "image_url":"https://alimarufdev.github.io/gambar/happy.webp",
-         "video_url":"http://indoappdev.xyz/JUMPSCARE/J6.mp4",
-         "voice_url":"http://indoappdev.xyz/HORROR/H1.ogg"
-       },
-       {
-         "id":7,
-         "name":"HappyMood",
-         "image_url":"https://alimarufdev.github.io/gambar/happy.webp",
-         "video_url":"http://indoappdev.xyz/JUMPSCARE/J7.mp4",
-         "voice_url":"http://indoappdev.xyz/HORROR/H1.ogg"
-       },
-       {
-         "id":8,
-         "name":"HappyMood",
-         "image_url":"https://alimarufdev.github.io/gambar/happy.webp",
-         "video_url":"http://indoappdev.xyz/JUMPSCARE/J8.mp4",
-         "voice_url":"http://indoappdev.xyz/HORROR/H1.ogg"
-       },
-       {
-         "id":9,
-         "name":"HappyMood",
-         "image_url":"https://alimarufdev.github.io/gambar/happy.webp",
-         "video_url":"http://indoappdev.xyz/JUMPSCARE/J9.mp4",
-         "voice_url":"http://indoappdev.xyz/HORROR/H1.ogg"
-       },
-       {
-         "id":10,
-         "name":"HappyMood",
-         "image_url":"https://alimarufdev.github.io/gambar/happy.webp",
-         "video_url":"http://indoappdev.xyz/JUMPSCARE/J10.mp4",
-         "voice_url":"http://indoappdev.xyz/HORROR/H1.ogg"
-       },
-       {
-         "id":11,
-         "name":"HappyMood",
-         "image_url":"https://alimarufdev.github.io/gambar/happy.webp",
-         "video_url":"http://indoappdev.xyz/JUMPSCARE/J1.mp4",
-         "voice_url":"http://indoappdev.xyz/HORROR/H1.ogg"
-       },
-       {
-         "id":12,
-         "name":"HappyMood",
-         "image_url":"https://alimarufdev.github.io/gambar/happy.webp",
-         "video_url":"http://indoappdev.xyz/JUMPSCARE/J2.mp4",
-         "voice_url":"http://indoappdev.xyz/HORROR/H1.ogg"
-       },
-       {
-         "id":13,
-         "name":"HappyMood",
-         "image_url":"https://alimarufdev.github.io/gambar/happy.webp",
-         "video_url":"http://indoappdev.xyz/JUMPSCARE/J3.mp4",
-         "voice_url":"http://indoappdev.xyz/HORROR/H1.ogg"
-       },
-       {
-         "id":14,
-         "name":"HappyMood",
-         "image_url":"https://alimarufdev.github.io/gambar/happy.webp",
-         "video_url":"http://indoappdev.xyz/JUMPSCARE/J4.mp4",
-         "voice_url":"http://indoappdev.xyz/HORROR/H1.ogg"
-       },
-       {
-         "id":15,
-         "name":"HappyMood",
-         "image_url":"https://alimarufdev.github.io/gambar/happy.webp",
-         "video_url":"http://indoappdev.xyz/JUMPSCARE/J5.mp4",
-         "voice_url":"http://indoappdev.xyz/HORROR/H1.ogg"
-       },
-       {
-         "id":16,
-         "name":"HappyMood",
-         "image_url":"https://alimarufdev.github.io/gambar/happy.webp",
-         "video_url":"http://indoappdev.xyz/JUMPSCARE/J6.mp4",
-         "voice_url":"http://indoappdev.xyz/HORROR/H1.ogg"
-       },
-       {
-         "id":17,
-         "name":"HappyMood",
-         "image_url":"https://alimarufdev.github.io/gambar/happy.webp",
-         "video_url":"http://indoappdev.xyz/JUMPSCARE/J7.mp4",
-         "voice_url":"http://indoappdev.xyz/HORROR/H1.ogg"
-       },
-       {
-         "id":18,
-         "name":"HappyMood",
-         "image_url":"https://alimarufdev.github.io/gambar/happy.webp",
-         "video_url":"http://indoappdev.xyz/JUMPSCARE/J8.mp4",
-         "voice_url":"http://indoappdev.xyz/HORROR/H1.ogg"
-       },
-       {
-         "id":19,
-         "name":"HappyMood",
-         "image_url":"https://alimarufdev.github.io/gambar/happy.webp",
-         "video_url":"http://indoappdev.xyz/JUMPSCARE/J9.mp4",
-         "voice_url":"http://indoappdev.xyz/HORROR/H1.ogg"
-       },
-       {
-         "id":20,
-         "name":"HappyMood",
-         "image_url":"https://alimarufdev.github.io/gambar/happy.webp",
-         "video_url":"http://indoappdev.xyz/JUMPSCARE/J10.mp4",
-         "voice_url":"http://indoappdev.xyz/HORROR/H1.ogg"
        }
-       
     
    ]
 }
