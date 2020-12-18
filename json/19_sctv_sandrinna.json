@@ -1,17 +1,16 @@
 {
-  "Iklan": 
-  [
-     {
-      "status": "0",
-      "link": "https://play.google.com/store/apps/details?id=",
-      "appid": "pub-4132761121202947",
-	  
-      "admobappid": "ca-app-pub-3092154944243805~7923152088",
-      "interid": "ca-app-pub-3092154944243805/8725963832",
-      "nativeid": "ca-app-pub-3092154944243805/8135948651",
-      "bannernative": "ca-app-pub-3092154944243805/3473637158",
-      "openid": "ca-app-pub-3092154944243805/6901730362",
-	  
+"Iklan":
+[
+   {
+    "status": "0",
+    "link": "https://play.google.com/store/apps/details?id=",
+    "appid": "pub-3092154944243805",
+    
+    "admobappid": "ca-app-pub-009",
+    "interid": "ca-app-pub-009",
+    "nativeid": "ca-app-pub-009",
+    "bannernative": "ca-app-pub-009",
+    "openid": "ca-app-pub-009",
 	  
       "startappid": "206058814",
 	  
