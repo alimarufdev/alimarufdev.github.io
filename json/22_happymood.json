@@ -2,7 +2,7 @@
 "Iklan":
 [
    {
-    "status": "0",
+    "status": "1",
     "link": "https://play.google.com/store/apps/details?id=",
     "appid": "pub-3092154944243805",
     
@@ -21,11 +21,11 @@
       "version_app": 1,
       
       
-      "fan_native": "2066208433510362_2066208483510357",
-      "fan_inter":"2066208433510362_2066208486843690",
-      "fan_banner_native":"2066208433510362_2066208476843691",
-      "fan_banner":"3642575479086057_3642575669086038",
-      "fan_reward":"3642575479086057_3642575649086040",
+      "fan_native": "q",
+      "fan_inter":"q",
+      "fan_banner_native":"q",
+      "fan_banner":"q",
+      "fan_reward":"q",
       
         "hpk_admob1": "google",
         "hpk_admob2": "insurance",
