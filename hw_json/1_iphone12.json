@@ -29,20 +29,15 @@
       "Categories":
 
       [
+
         {
           "id": 2,
-          "nama_cat": "iphone 12 pro",
-          "gambar": "https://alimarufdev.github.io/gambar/wall_iphone12/a1.jpg"
-
-        },
-        {
-          "id": 3,
           "nama_cat": "iphone X",
           "gambar": "https://alimarufdev.github.io/gambar/wall_iphone12/a19.jpg"
 
         },
         {
-          "id": 4,
+          "id": 3,
           "nama_cat": "iphone 12 pro",
           "gambar": "https://alimarufdev.github.io/gambar/wall_iphone12/a61.jpg"
 
@@ -52,77 +47,6 @@
       "Wallpaper":
 
       [
-        {
-          "id":1,
-          "id_wall":"001",
-          "nama_cat": "iphone 12 pro",
-          "judul":"iphone 12 pro",
-          "image": "https://alimarufdev.github.io/gambar/wall_iphone12/a1.jpg"
-        },
-        {
-          "id":2,
-          "id_wall":"002",
-          "nama_cat": "iphone 12 pro",
-          "judul":"iphone 12 pro",
-          "image": "https://alimarufdev.github.io/gambar/wall_iphone12/a2.jpg"
-        },
-        {
-          "id":3,
-          "id_wall":"003",
-          "nama_cat": "iphone 12 pro",
-          "judul":"iphone 12 pro",
-          "image": "https://alimarufdev.github.io/gambar/wall_iphone12/a3.jpg"
-        },
-        {
-          "id":4,
-          "id_wall":"004",
-          "nama_cat": "iphone 12 pro",
-          "judul":"iphone 12 pro",
-          "image": "https://alimarufdev.github.io/gambar/wall_iphone12/a4.jpg"
-        },
-        {
-          "id":5,
-          "id_wall":"005",
-          "nama_cat": "iphone 12 pro",
-          "judul":"iphone 12 pro",
-          "image": "https://alimarufdev.github.io/gambar/wall_iphone12/a5.jpg"
-        },
-        {
-          "id":6,
-          "id_wall":"006",
-          "nama_cat": "iphone 12 pro",
-          "judul":"iphone 12 pro",
-          "image": "https://alimarufdev.github.io/gambar/wall_iphone12/a6.jpg"
-        },
-        {
-          "id":7,
-          "id_wall":"007",
-          "nama_cat": "iphone 12 pro",
-          "judul":"iphone 12 pro",
-          "image": "https://alimarufdev.github.io/gambar/wall_iphone12/a7.jpg"
-        },
-        {
-          "id":8,
-          "id_wall":"008",
-          "nama_cat": "iphone 12 pro",
-          "judul":"iphone 12 pro",
-          "image": "https://alimarufdev.github.io/gambar/wall_iphone12/a8.jpg"
-        },
-        {
-          "id":9,
-          "id_wall":"009",
-          "nama_cat": "iphone 12 pro",
-          "judul":"iphone 12 pro",
-          "image": "https://alimarufdev.github.io/gambar/wall_iphone12/a9.jpg"
-        },
-        {
-          "id":10,
-          "id_wall":"010",
-          "nama_cat": "iphone 12 pro",
-          "judul":"iphone 12 pro",
-          "image": "https://alimarufdev.github.io/gambar/wall_iphone12/a10.jpg"
-        },
-
 
 
         {
