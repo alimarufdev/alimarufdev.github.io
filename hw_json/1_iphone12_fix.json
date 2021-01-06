@@ -33,19 +33,19 @@
         {
           "id": 2,
           "nama_cat": "iphoneX",
-          "image": "https://alimarufdev.github.io/gambar/wall_iphone12_fix/iphoneX6.jpg"
+          "gambar": "https://alimarufdev.github.io/gambar/wall_iphone12_fix/iphoneX6.jpg"
 
         },
         {
           "id": 3,
           "nama_cat": "light",
-          "image": "https://alimarufdev.github.io/gambar/wall_iphone12_fix/light52.jpg"
+          "gambar": "https://alimarufdev.github.io/gambar/wall_iphone12_fix/light52.jpg"
 
         },
         {
           "id": 4,
           "nama_cat": "most_used",
-          "image": "https://alimarufdev.github.io/gambar/wall_iphone12_fix/most_used78.jpg"
+          "gambar": "https://alimarufdev.github.io/gambar/wall_iphone12_fix/most_used78.jpg"
 
         }
       ],
