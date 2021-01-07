@@ -1210,7 +1210,7 @@
           "id_wall":"036",
           "nama_cat": "Elite",
           "judul":"Elite",
-          "image": "https://alimarufdev.github.io/gambar/free_fire/elite/elite36.webp"
+          "image": "https://alimarufdev.github.io/gambar/free_fire/elite/elite36.jpg"
         },
         {
           "id":37,
@@ -1219,7 +1219,6 @@
           "judul":"Elite",
           "image": "https://alimarufdev.github.io/gambar/free_fire/elite/elite37.webp"
         }
-
 
       ]
 }
