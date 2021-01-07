@@ -12,8 +12,8 @@
         "interid": "ca-app-pub-4132761121202947/2027663276",
         "nativeid": "ca-app-pub-4132761121202947/9171015498",
         "openads":"ca-app-pub-4132761121202947/9366456614",
-        "interval": 2,
-        "pengaturan_iklan":"10",
+        "interval": "2",
+        "pengaturan_iklan":"1",
 
         "fan_inter":"-",
         "fan_banner_native":"-",
