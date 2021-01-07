@@ -35,51 +35,26 @@
 
         {
           "id": 2,
-          "nama_cat": "All Member",
-          "gambar": "https://alimarufdev.github.io/gambar/bts/all_member/all_member3.webp"
+          "nama_cat": "Concert",
+          "gambar": "https://alimarufdev.github.io/gambar/blackpink_jisoo/Modeling/Modeling3.webp"
 
         },
         {
           "id": 3,
-          "nama_cat": "BtsV",
-          "gambar": "https://alimarufdev.github.io/gambar/bts/BtsV/BtsV3.webp"
+          "nama_cat": "Cute",
+          "gambar": "https://alimarufdev.github.io/gambar/blackpink_jisoo/Modeling/ModelingV3.webp"
 
         },
         {
           "id": 4,
-          "nama_cat": "Jhope",
-          "gambar": "https://alimarufdev.github.io/gambar/bts/Jhope/Jhope3.webp"
+          "nama_cat": "Modeling",
+          "gambar": "https://alimarufdev.github.io/gambar/blackpink_jisoo/Modeling/Modeling3.webp"
 
         },
         {
           "id": 5,
-          "nama_cat": "Jimin",
-          "gambar": "https://alimarufdev.github.io/gambar/bts/Jimin/Jimin3.webp"
-
-        },
-        {
-          "id": 6,
-          "nama_cat": "Jin",
-          "gambar": "https://alimarufdev.github.io/gambar/bts/Jin/Jin3.webp"
-
-        },
-        {
-          "id": 7,
-          "nama_cat": "Jungkook",
-          "gambar": "https://alimarufdev.github.io/gambar/bts/Jungkook/Jungkook3.webp"
-
-        }
-        ,
-        {
-          "id": 8,
-          "nama_cat": "Rm",
-          "gambar": "https://alimarufdev.github.io/gambar/bts/Rm/Rm3.webp"
-
-        },
-        {
-          "id": 9,
-          "nama_cat": "Suga",
-          "gambar": "https://alimarufdev.github.io/gambar/bts/Suga/Suga3.webp"
+          "nama_cat": "Smile",
+          "gambar": "https://alimarufdev.github.io/gambar/blackpink_jisoo/Smile/Smile3.webp"
 
         }
       ],
