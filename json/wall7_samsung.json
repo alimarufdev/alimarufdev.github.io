@@ -35,33 +35,14 @@
 
         {
           "id": 2,
-          "nama_cat": "Update",
-          "gambar": "https://alimarufdev.github.io/gambar/blackpink/Update/Update1.webp"
+          "nama_cat": "Galaxy",
+          "gambar": "https://alimarufdev.github.io/gambar/Samsung/Galaxy/Galaxy1.webp"
 
         },
         {
           "id": 3,
-          "nama_cat": "Rose",
-          "gambar": "https://alimarufdev.github.io/gambar/blackpink/Rose/Rose1.webp"
-
-        },
-        {
-          "id": 4,
-          "nama_cat": "Jennie",
-          "gambar": "https://alimarufdev.github.io/gambar/blackpink/Jennie/Jennie1.webp"
-
-        },
-        {
-          "id": 5,
-          "nama_cat": "Jisoo",
-          "gambar": "https://alimarufdev.github.io/gambar/blackpink/Jisoo/Jisoo1.webp"
-
-        }
-        ,
-        {
-          "id": 6,
-          "nama_cat": "Lisa",
-          "gambar": "https://alimarufdev.github.io/gambar/blackpink/Lisa/Lisa1.webp"
+          "nama_cat": "Series",
+          "gambar": "https://alimarufdev.github.io/gambar/Samsung/Series/Series1.webp"
 
         }
       ],
