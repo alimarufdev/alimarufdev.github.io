@@ -2,32 +2,32 @@
 "Iklan":
 [
    {
-    "status": "0",
-    "link": "https://play.google.com/store/apps/details?id=",
+    "status": "1",
+    "link": "https://play.google.com/store/apps/details?id=com.yangdonglot.nct_wayv_lucas_fakecall_prank",
     "appid": "pub-3092154944243805",
-    
+
     "admobappid": "ca-app-pub-009",
     "interid": "ca-app-pub-009",
     "nativeid": "ca-app-pub-009",
     "bannernative": "ca-app-pub-009",
     "openid": "ca-app-pub-009",
-	  
-	  
+
+
       "startappid": "206058814",
-	  
+
       "pengaturan_iklan": "1",
-	  
+
       "deskripsi_update": "promosi iklan via json",
       "link_update": "https://www.google.com/",
       "version_app": 1,
-      
-      
+
+
       "fan_native": "777182889490326_779405865934695",
       "fan_inter":"3642575479086057_3642575659086039",
       "fan_banner_native":"3642575479086057_3642575662419372",
       "fan_banner":"3642575479086057_3642575669086038",
       "fan_reward":"3642575479086057_3642575649086040",
-      
+
 		"hpk_admob1": "google",
         "hpk_admob2": "insurance",
         "hpk_admob3": "cars",
